@@ -13,7 +13,7 @@ function UserItem({name,email,phone,id}) {
         <Card.Text> {email}</Card.Text>
         <Card.Text> {phone}</Card.Text>
 
-        <Button variant="primary">More Details</Button>
+       
       </Card.Body>
     </Card>
   );
